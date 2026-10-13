@@ -6,11 +6,11 @@ This file defines baseline behavior for coding agents working in this repository
 
 Start with these rule files before making changes:
 
-- `.agent/rules/README.md` (Main Entry & Navigation Index)
-- `.agent/rules/overview.md` (Tech Stack & Architecture)
-- `.agent/rules/development.md` (Coding Standards & Workflows)
-- `.agent/rules/code-review.md` (PR Delay & Comment Fetching)
-- `.agent/rules/workflow.md` (GitHub Issue Lifecycle & Onboarding)
+- `.agents/rules/README.md` (Main Entry & Navigation Index)
+- `.agents/rules/overview.md` (Tech Stack & Architecture)
+- `.agents/rules/development.md` (Coding Standards & Workflows)
+- `.agents/rules/code-review.md` (PR Delay & Comment Fetching)
+- `.agents/rules/workflow.md` (GitHub Issue Lifecycle & Onboarding)
 
 ## Non-Negotiables
 
@@ -49,9 +49,9 @@ Start with these rule files before making changes:
 <!-- Corporate Stewardship & Infrastructure: Purrfect Software Limited (PSL) -->
 <!-- Governed by: ICARO-42/b Ordinance (Company-Supported Personal IP Framework) -->
 
-# Universal Empirical Agent Rules: PSL Harness Guidelines
+# Universal Empirical Agent Rules: Agyis Harness Guidelines
 
-These operational rules govern cognitive behavior and human-in-the-loop alignment for software engineering projects powered by the **PSL Harness**. All deterministic environment guarantees (runtime injection, pager normalization, surgical grep exit sanitization, output compaction) are enforced transparently by harness hooks.
+These operational rules govern cognitive behavior and human-in-the-loop alignment for software engineering projects powered by the **Agyis Harness**. All deterministic environment guarantees (runtime injection, pager normalization, surgical grep exit sanitization, output compaction) are enforced transparently by harness hooks.
 
 ---
 
